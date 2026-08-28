@@ -159,6 +159,10 @@ video {
   display: none;
 }
 
+.mobile-menu nav[hidden] {
+  display: none !important;
+}
+
 .hero-content {
   position: relative;
   z-index: 1;
