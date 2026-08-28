@@ -1,0 +1,32 @@
+AMAZON GIGAS - VERSION HTML, CSS Y JAVASCRIPT
+
+COMO ABRIR LA PAGINA
+
+1. Descomprime el archivo ZIP.
+2. Entra en la carpeta Amazon_Gigas_HTML.
+3. Haz doble clic en index.html.
+4. La pagina se abrira en tu navegador.
+
+No necesitas instalar Node.js.
+No necesitas usar npm.
+No necesitas una terminal.
+
+VIDEO DE PORTADA
+
+1. Copia tu video dentro de esta misma carpeta.
+2. Cambia su nombre exactamente a:
+
+videoportada.mp4
+
+Debe quedar al lado de index.html.
+
+Si todavia no colocas el video, la pagina mostrara una imagen provisional.
+
+ARCHIVOS PRINCIPALES
+
+- index.html: estructura y textos.
+- css/styles.css: colores, tamanos y diseno responsivo.
+- js/script.js: funcionamiento del menu para celulares.
+- images: las ocho fotografias de la pagina.
+- videoportada.mp4: el video que debes agregar.
+
