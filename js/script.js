@@ -11,6 +11,8 @@ function setMenu(open) {
   mobileNavigation.hidden = !open;
 }
 
+setMenu(false);
+
 menuButton?.addEventListener("click", () => {
   setMenu(menuButton.getAttribute("aria-expanded") !== "true");
 });
